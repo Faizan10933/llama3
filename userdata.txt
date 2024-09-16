@@ -19,7 +19,6 @@ Status: SUBSCRIBED
 Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
 Expiry Date: 2043-03-29
-Modified: 2024-08-27
 Price: $240
 Supported Channels:
 HD
@@ -32,7 +31,6 @@ Status: SUBSCRIBED
 Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
 Expiry Date: 2043-03-29
-Modified: 2024-08-07
 Price: $180
 Supported Channels:
 SD
@@ -44,7 +42,6 @@ Status: SUBSCRIBED
 Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
 Expiry Date: 2043-03-29
-Modified: 2024-08-06
 Price: $220
 Supported Channels:
 SD
@@ -57,7 +54,6 @@ Status: SUBSCRIBED
 Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
 Expiry Date: 2043-03-29
-Modified: 2024-08-28
 Price: $250
 Supported Channels:
 HD
@@ -69,7 +65,6 @@ Status: SUBSCRIBED
 Product Type: SUBSCRIPTION
 Valid From: 2023-04-03
 Expiry Date: 2043-03-29
-Modified: 2023-06-14
 Price: $190
 Supported Channels:
 SD
